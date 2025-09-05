@@ -15,7 +15,7 @@ A full-stack web application that analyzes resumes against job descriptions to c
 
 ## Project Demo
 
-▶️ [Watch Demo Video](https://github.com/SOORAJ04/Resume-ATS-score/releases/download/v1.0/demo.mp4)
+▶️ [Watch Demo Video](https://raw.githubusercontent.com/SOORAJ04/Resume-ATS-score/main/demo.mp4)
 
 
 ## 🛠️ Tech Stack
