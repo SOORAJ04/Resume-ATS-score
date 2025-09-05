@@ -34,3 +34,7 @@ A full-stack web application that analyzes resumes against job descriptions to c
 - **NLTK** - Natural language toolkit
 - **pdfplumber** - PDF text extraction
 - **python-docx** - DOCX text extraction
+
+- **Project Demo**
+- <video src="demo.mp4" controls></video>
+
