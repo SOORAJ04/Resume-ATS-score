@@ -14,6 +14,10 @@ A full-stack web application that analyzes resumes against job descriptions to c
 - **Database Storage**: PostgreSQL backend for storing analysis results
 - **RESTful API**: Full API support for integration with other systems
 
+
+- **Project Demo**
+- <video src="https://raw.githubusercontent.com/SOORAJ04/Resume-ATS-score/main/demo.mp4" controls></video>
+
 ## 🛠️ Tech Stack
 
 ### Backend
@@ -35,6 +39,5 @@ A full-stack web application that analyzes resumes against job descriptions to c
 - **pdfplumber** - PDF text extraction
 - **python-docx** - DOCX text extraction
 
-- **Project Demo**
-- <video src="demo.mp4" controls></video>
+
 
