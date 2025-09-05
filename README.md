@@ -1,5 +1,3 @@
-# Resume-ATS-score
-
 # Resume ATS Score Checker
 
 A full-stack web application that analyzes resumes against job descriptions to calculate ATS (Applicant Tracking System) compatibility scores. Built with Django, Python, and modern web technologies.
@@ -15,8 +13,10 @@ A full-stack web application that analyzes resumes against job descriptions to c
 - **RESTful API**: Full API support for integration with other systems
 
 
-- **Project Demo**
-- <video src="https://raw.githubusercontent.com/SOORAJ04/Resume-ATS-score/main/demo.mp4" controls></video>
+## Project Demo
+
+▶️ [Watch Demo Video](https://github.com/SOORAJ04/Resume-ATS-score/releases/download/v1.0/demo.mp4)
+
 
 ## 🛠️ Tech Stack
 
